@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-08</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-08-01T00:00:00-04:00</updated><entry><title>Welcome to the May 2015 Python class at TIY Durham!</title><link href="/welcome.html" rel="alternate"></link><updated>2015-08-01T00:00:00-04:00</updated><author><name>James Allen</name></author><id>tag:,2015-08-01:welcome.html</id><summary type="html">&lt;p&gt;Welcome to the Python class at The Iron Yard in Durham! We are going to have an amazing semester. You're going to need to do a few things to get ready before we start class on August 24:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIY Durham Python 2015-08</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-07-23T00:00:00-04:00</updated><entry><title>Welcome to the August 2015 Python class at TIY Durham!</title><link href="/welcome.html" rel="alternate"></link><updated>2015-07-23T00:00:00-04:00</updated><author><name>James Allen</name></author><id>tag:,2015-07-23:welcome.html</id><summary type="html">&lt;p&gt;Welcome to the Python class at The Iron Yard in Durham! We are going to have an amazing semester. You're going to need to do a few things to get ready before we start class on August 24:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="/pages/mac-specs-and-setup.html"&gt;Get and setup your Mac&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="{filename}/pages/syllabus.md"&gt;Read through the syllabus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/pages/syllabus.html"&gt;Read through the syllabus&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="/pages/prework.html"&gt;Complete your prework&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The prework will take you quite some time -- probably around 40 hours -- so don't wait until the last minute to start it. It is due one week before class on August 17.&lt;/p&gt;</summary></entry></feed>
