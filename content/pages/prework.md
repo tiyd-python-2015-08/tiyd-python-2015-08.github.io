@@ -76,11 +76,11 @@ It is a command line tool that we will be using for every project we do in class
 1. Go through the Treehouse course on [Git Basics](http://teamtreehouse.com/library/git-basics)
 2. Do the [Try Git](https://try.github.io/levels/1/challenges/1) Exercises
 3. Read some of the [GitHub Guides](https://guides.github.com/):
-  * Hello World
-  * Getting Your Project on GitHub
-  * Understanding the GitHub flow
-  * Forking Projects
-  * Mastering Markdown
+    * Hello World
+    * Getting Your Project on GitHub
+    * Understanding the GitHub flow
+    * Forking Projects
+    * Mastering Markdown
 
 ## Topic 5: HTML/CSS
 

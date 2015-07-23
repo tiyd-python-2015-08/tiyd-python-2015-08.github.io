@@ -40,3 +40,13 @@ HIDE_SIDEBAR = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+FAVICON = 'favicon.png'
+FAVICON_IE = 'favicon.ico'
+TOUCHICON = 'touchicon.png'
+
+STATIC_PATHS = ['extra/favicon.png', 'extra/favicon.ico', 'extra/touchicon.png']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.png': {'path': 'favicon.png'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/touchicon.png': {'path': 'touchicon.png'},
+}
