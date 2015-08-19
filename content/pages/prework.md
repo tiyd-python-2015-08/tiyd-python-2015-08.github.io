@@ -39,7 +39,6 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email you@example.com
 $ git config --global push.default simple
 ```
-1. Run the following command at the Terminal: ``
 
 ### Treehouse
 
