@@ -33,11 +33,13 @@ GitHub is a web-based hosting and communication service for software development
 1. Sign up for a free account at [GitHub](https://github.com/join).
 1. Make sure to add a profile picture and your full name, since this will help me learn your name and face.
 1. Follow the instructions to [Generate an SSH key](https://help.github.com/articles/generating-ssh-keys/), including adding the SSH key to your GitHub account and testing the connection.
-1. Configure your global name and email address settings for git at the command line by running the following commands, replacing **Your Name** and **you@example.com** with your own name and email address that you use for GitHub:
+1. Configure some global git settings at the command line by running the following commands, replacing **Your Name** and **you@example.com** with your own name and email address that you use for GitHub:
 ```bash
 $ git config --global user.name "Your Name"
 $ git config --global user.email you@example.com
+$ git config --global push.default simple
 ```
+1. Run the following command at the Terminal: ``
 
 ### Treehouse
 
