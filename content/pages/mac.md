@@ -33,6 +33,8 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
     1. Run `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` and follow all the prompts.
     1. Run `brew doctor`
     1. Run `brew install readline git python3 direnv tree wget trash bash-completion`
+    1. Run `sudo easy_install pip`
+    1. Run `sudo pip install virtualenv`
 
 * Install Atom
     1. Download Atom from [the Atom website](https://atom.io/).
@@ -43,7 +45,8 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
 
 * Install [Google Chrome](https://www.google.com/intl/en/chrome/browser/)
 
-* Install some helpful dotfiles
+* Install some helpful dotfiles and terminal
     1. Open up Terminal.app.
     1. Run `git clone https://github.com/tiyd-python-2015-08/dotfiles.git`
     1. Run `./dotfiles/bin/dfm install`
+    1. Exit Terminal.app and reopen it for the changes to take effect.
