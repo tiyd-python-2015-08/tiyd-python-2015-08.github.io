@@ -38,6 +38,7 @@ GitHub is a web-based hosting and communication service for software development
 $ git config --global user.name "Your Name"
 $ git config --global user.email you@example.com
 $ git config --global push.default simple
+$ git config --global core.excludesfile ~/.gitignore
 ```
 
 ### Treehouse
